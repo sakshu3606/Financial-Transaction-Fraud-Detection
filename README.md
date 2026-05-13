@@ -42,8 +42,8 @@ The project uses multiple classification algorithms to detect fraud efficiently 
 |-------|-----------|
 | 🤖 Artificial Neural Network (ANN) | 85% |
 | 🌳 Decision Tree | 85% |
-| 📍 K-Nearest Neighbors (KNN) | 84% |
-| 📈 Logistic Regression | 85% (Overfitting Observed) |
+| 📍 K-Nearest Neighbors (KNN) | 84% (Overfitting Observed) |
+| 📈 Logistic Regression | 85% |
 | 📉 Naive Bayes | 85% |
 | 🌲 Random Forest | 85% |
 | 🔥 Support Vector Machine (SVM) | 85% |
