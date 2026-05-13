@@ -1,0 +1,16 @@
+transaction_id,customer_age,account_balance,transaction_amount,merchant_rating,credit_score,loan_amount,monthly_income,num_of_dependents,emi_amount,years_with_bank,savings_amount,insurance_amount,investment_score,risk_score,device_type,payment_mode,city,employment_type,loan_status,card_type,customer_segment,transaction_type,fraud_flag,target
+1,56,328741.15,28543.38,2.8,395,338636.34,21525.11,5,42510.34,29,988394.46,61526.49,76.77,0.309,Tablet,Card,Delhi,Business,Approved,Gold,High,Offline,1,0
+2,69,229911.81,2396.58,3.6,852,953144.05,75560.27,0,42696.69,5,860889.62,178097.85,6.81,0.75,Mobile,UPI,Nashik,Business,Approved,Silver,Low,Offline,0,0
+3,46,136674.67,81390.53,4.2,855,875865.14,186823.33,1,14985.46,9,2183.36,35528.07,98.76,0.002,Laptop,Card,Nagpur,Salaried,Rejected,Platinum,High,Online,0,0
+4,32,347078.85,77187.2,4.7,539,71270.02,153102.0,3,3292.47,7,542203.82,460722.35,88.58,0.448,Tablet,Wallet,Pune,Self-Employed,Rejected,Gold,High,Online,0,0
+5,60,334438.19,87107.83,4.1,490,57372.41,72899.39,1,47930.6,29,594377.99,17872.43,79.59,0.816,Laptop,Card,Delhi,Self-Employed,Rejected,Platinum,Medium,Offline,0,0
+6,25,428391.06,46624.01,4.7,385,348378.9,134564.53,5,43678.73,25,928344.9,475914.57,29.46,0.082,Tablet,Wallet,Delhi,Salaried,Approved,Gold,High,Offline,0,0
+7,38,439555.75,7577.64,4.3,655,422356.95,88164.05,0,30787.1,29,982223.79,142050.68,0.75,0.459,Mobile,UPI,Mumbai,Business,Rejected,Platinum,Medium,Offline,0,0
+8,56,281347.91,14787.67,2.0,841,49813.27,169770.25,1,1062.91,21,832053.15,402122.06,36.07,0.42,Mobile,Wallet,Nashik,Business,Approved,Platinum,Medium,Online,1,0
+9,36,163460.71,96039.08,3.5,684,672793.21,128883.24,5,32185.99,9,756625.28,161215.71,28.04,0.323,Mobile,Net Banking,Nagpur,Self-Employed,Approved,Silver,Low,Online,0,0
+10,40,265260.64,85605.39,1.8,547,42004.06,189304.07,1,47642.59,17,705116.22,321777.64,11.6,0.251,Tablet,Card,Nashik,Salaried,Approved,Silver,Low,Online,0,0
+11,28,180268.31,60674.97,3.7,302,163871.15,39597.94,3,23648.77,17,854630.62,199207.61,4.17,0.01,Tablet,UPI,Delhi,Self-Employed,Approved,Silver,Low,Online,0,0
+12,28,139400.69,5189.94,3.8,695,124278.0,245738.22,0,3880.2,19,218947.26,51805.34,54.78,0.718,Mobile,UPI,Pune,Salaried,Rejected,Platinum,High,Offline,0,0
+13,41,276236.11,6673.85,1.4,892,456049.27,127351.48,4,32105.7,6,60939.75,213413.45,26.63,0.986,Mobile,Wallet,Mumbai,Self-Employed,Approved,Gold,Medium,Offline,1,0
+14,70,329309.15,18322.66,4.7,626,66447.11,208438.92,4,11637.45,25,971594.3,435756.5,52.92,0.896,Mobile,Net Banking,Pune,Salaried,Rejected,Platinum,Medium,Offline,0,1
+15,53,295695.07,65878.99,3.9,361,503320.98,180110.21,1,20001.1,1,240944.75,426329.93,66.97,0.035,Mobile,UPI,Pune,Salaried,Approved,Silver,High,Online,1,0

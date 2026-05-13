@@ -1,0 +1,16 @@
+transaction_id,customer_age,account_balance,transaction_amount,merchant_rating,credit_score,loan_amount,monthly_income,num_of_dependents,emi_amount,years_with_bank,savings_amount,insurance_amount,investment_score,risk_score,device_type,payment_mode,city,employment_type,loan_status,card_type,customer_segment,transaction_type,fraud_flag,target
+1001,58,46090,28793,2.9,380,50397,190171,2,20115,9,48585,147848,29.69,0.64,Mobile,Card,Mumbai,Business,Rejected,Platinum,Medium,Offline,0,0
+1002,48,334365,72032,4.4,861,267750,159643,2,11965,15,69044,102787,60.23,0.68,Tablet,Net Banking,Pune,Salaried,Rejected,Platinum,High,Offline,1,1
+1003,34,69820,93116,3.7,687,363531,58044,0,25538,15,114556,137948,46.35,0.55,Laptop,UPI,Pune,Self-Employed,Approved,Silver,High,Offline,0,0
+1004,62,267913,25758,2.8,301,273160,71214,2,43530,10,7693,65016,15.84,0.48,Mobile,Wallet,Mumbai,Salaried,Rejected,Silver,Medium,Online,1,1
+1005,27,326879,84578,1.1,689,493005,134752,4,6056,13,248307,150546,32.85,0.57,Tablet,Net Banking,Pune,Business,Approved,Platinum,Low,Offline,0,0
+1006,40,199027,18531,4.8,865,65591,68984,1,33482,19,205235,199125,32.22,0.6,Tablet,UPI,Mumbai,Business,Approved,Platinum,Medium,Online,0,0
+1007,58,332069,2847,3.3,405,230884,60774,1,48716,7,30939,31959,72.67,0.17,Tablet,UPI,Pune,Self-Employed,Rejected,Gold,Low,Offline,1,1
+1008,38,257709,59250,2.5,776,33247,22568,0,9110,17,157906,146602,74.1,0.41,Laptop,Card,Pune,Business,Approved,Platinum,High,Online,0,0
+1009,42,204041,65825,1.1,701,34300,140151,3,14773,4,23047,129101,23.33,0.31,Tablet,Wallet,Nagpur,Salaried,Rejected,Gold,Low,Offline,1,1
+1010,30,272455,84754,1.9,855,477281,153767,0,28266,5,293249,13748,99.8,0.78,Tablet,Wallet,Nagpur,Self-Employed,Approved,Gold,Low,Online,0,0
+1011,30,108355,35873,2.0,461,92798,144375,3,18412,7,80766,23545,34.01,0.5,Tablet,Card,Pune,Salaried,Rejected,Gold,Low,Online,1,1
+1012,43,240796,67535,3.7,501,19268,199262,1,34270,13,49262,137659,97.9,0.94,Tablet,Card,Pune,Salaried,Approved,Gold,High,Offline,0,0
+1013,55,219176,56986,3.4,569,358951,156330,0,7910,15,290920,175838,46.99,0.44,Mobile,Wallet,Nagpur,Business,Rejected,Gold,High,Online,0,0
+1014,59,189779,66903,4.3,570,284329,59504,4,46453,11,166152,83530,12.97,0.79,Mobile,Wallet,Nagpur,Business,Rejected,Silver,Low,Online,1,1
+1015,43,352449,31651,1.7,755,204776,184231,2,26446,4,133376,103557,41.06,0.78,Tablet,Net Banking,Nagpur,Business,Rejected,Platinum,Low,Offline,0,0
